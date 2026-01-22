@@ -1,0 +1,5 @@
+wandb/
+data/
+.DS_Store
+selected_data/
+self/
